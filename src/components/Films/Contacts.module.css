@@ -1,0 +1,12 @@
+.wrapper {
+    width: 100%;
+}
+
+table {
+    padding: 0;
+    margin: 0;
+}
+
+td {
+    padding-right: 8px;
+}

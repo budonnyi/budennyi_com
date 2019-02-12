@@ -1,0 +1,10 @@
+.showreel {
+    width: 40%;
+    /*heght: auto;*/
+    margin-left: 50%;
+    margin-top: 20%;
+}
+
+img {
+    border: 1px solid #fff;
+}

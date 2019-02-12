@@ -1,0 +1,53 @@
+.maincontent {
+    margin: 15% auto;
+    margin-left: 50%;
+
+}
+
+p {
+    display: inline-block;
+    margin: 10px;
+    color: #333;
+    background-color: #fff;
+    padding: 10px 15px;
+    font-size: 16px;
+    font-weight: 500;
+    /*max-width: 40%;*/
+    /*word-wrap:break-word;*/
+}
+
+.contactForm {
+    background: transparent;
+}
+
+.string1 {
+    margin-left: 30%;
+    width: 45%;
+}
+
+.string2 {
+    padding-top: 0px;
+    margin-left: 30%;
+    width: 20%;
+}
+
+.string3 {
+    width: 55%;
+    margin-left: 10%;
+}
+
+.string4 {
+    margin-left: 30%;
+    width: 60%;
+    font-weight: 600;
+}
+
+.contactLink {
+    color: #333;
+    text-decoration: none
+}
+
+.contactLink:hover {
+    color: #000;
+    text-decoration: underline;
+}
