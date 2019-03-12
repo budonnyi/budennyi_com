@@ -2,118 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb179e82-13ac-4785-80e2-5db08fc0ede6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/background/bg1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/-12 e-FILM 5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/-13 e-FILM 6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/01 D-HORIZON.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/02 EXPRESS 1 MEET.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/03 EXPRESS 2 FURA.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/04 EXPRESS 3 PROBKA.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/05 UKRAINA - 1 HERO.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/06 UKRAINA - 2 FIRE.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/07 UKRAINA - 3 VOR.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/08 e-FILM 1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/09 e-FILM 2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/10 e-FILM 3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/11 e-FILM 4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/12 e-FILM 5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/13 e-FILM 6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/14 UKROPOCTA 1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/15 UKROPOCTA 2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/16 TOPCAT.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/enterfilm.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/express.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/horizon.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/topcat.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/ukraine.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/ukrpost.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/other/ukrpost2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/GREBIY SUDBY 01.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/GREBIY SUDBY 01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/GREBIY SUDBY 02.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/GREBIY SUDBY 02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/GREBIY SUDBY 03.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/GREBIY SUDBY 03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/GREBIY SUDBY 04.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/GREBIY SUDBY 04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/GREBIY SUDBY 05.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/GREBIY SUDBY 05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/part1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/part1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/part2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/part2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/part3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/part3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/part4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/part4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/part5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/part5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/part6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures/part6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures_sm/GREBIY SUDBY 01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures_sm/GREBIY SUDBY 02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures_sm/GREBIY SUDBY 03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures_sm/GREBIY SUDBY 04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures_sm/GREBIY SUDBY 05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures_sm/part1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures_sm/part2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures_sm/part3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures_sm/part4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures_sm/part5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pictures_sm/part6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters/poster_1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters/poster_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters/poster_2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters/poster_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters/poster_3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters/poster_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters/poster_4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters/poster_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters/poster_5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters/poster_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters/poster_6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters/poster_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters/poster_7.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters/poster_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters/poster_8.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters/poster_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters/poster_9.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters/poster_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters_catalog/poster_1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters_catalog/poster_2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters_catalog/poster_3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters_catalog/poster_4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters_catalog/poster_5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters_catalog/poster_6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters_catalog/poster_7.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters_catalog/poster_8.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/posters_catalog/poster_9.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/preview/showreel_pic.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/preview/trailer100.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/preview/trailer118817541.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/preview/trailer242569572.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/preview/trailer242830530.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/preview/trailer245123202.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/preview/trailer60.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/preview/trailer79846102.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/preview/trailer79846103.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/preview/trailer79846105.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/preview/trailer79846106.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/preview/trailer79846107.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/preview/trailer79847324.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/preview/trailer79847325.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/preview/trailer83898431.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/preview/trailer85048299.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Films/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Films/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MainPage/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainPage/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MainPage/mainPage.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainPage/mainPage.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Showreel/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Showreel/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/background/main_bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/background/main_bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/pages/main.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/pages/main.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/pages/showreel_pic.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/pages/showreel_pic.jpeg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,58 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/images/preview/trailer79847324.jpeg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/images/preview/trailer83898431.jpeg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/images/posters_catalog/poster_1.jpeg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/images/posters_catalog/poster_3.jpeg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/images/posters_catalog/poster_4.jpeg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/images/posters_catalog/poster_5.jpeg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/images/posters_catalog/poster_7.jpeg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/images/pictures_sm/GREBIY SUDBY 01.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/images/posters/poster_1.jpeg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/images/posters/poster_2.jpeg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -227,8 +66,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="440" />
-    <option name="y" value="180" />
+    <option name="x" value="348" />
+    <option name="y" value="211" />
     <option name="width" value="1332" />
     <option name="height" value="822" />
   </component>
@@ -249,40 +88,6 @@
               <item name="budennyi" type="b2602c69:ProjectViewProjectNode" />
               <item name="budennyi" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="budennyi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="budennyi" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="budennyi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="budennyi" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="budennyi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="budennyi" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="budennyi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="budennyi" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="posters" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="budennyi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="budennyi" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="posters_catalog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="budennyi" type="b2602c69:ProjectViewProjectNode" />
@@ -308,11 +113,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$/public/images/background" />
       <recent name="$PROJECT_DIR$/src/images/mainpage" />
       <recent name="$PROJECT_DIR$/src/components/Films" />
-      <recent name="$PROJECT_DIR$/src/components/Advertising" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public" />
@@ -356,7 +161,7 @@
       <workItem from="1550774140507" duration="29000" />
       <workItem from="1551159808210" duration="696000" />
       <workItem from="1551208858122" duration="1566000" />
-      <workItem from="1552367729608" duration="599000" />
+      <workItem from="1552367729608" duration="1408000" />
     </task>
     <task id="LOCAL-00001" summary="pre done">
       <created>1551159845347</created>
@@ -369,10 +174,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34655000" />
+    <option name="totallyTimeSpent" value="35464000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="440" y="180" width="1332" height="822" extended-state="0" />
+    <frame x="348" y="211" width="1332" height="822" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23178294" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -389,7 +194,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.5109589" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.23972602" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -637,12 +442,6 @@
     <entry file="file://$PROJECT_DIR$/public/images/preview/trailer79847324.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/preview/trailer83898431.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/posters_catalog/poster_1.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/images/posters_catalog/poster_3.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -655,14 +454,29 @@
     <entry file="file://$PROJECT_DIR$/public/images/posters_catalog/poster_7.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/pictures_sm/GREBIY SUDBY 01.png">
+    <entry file="file://$PROJECT_DIR$/public/images/posters_catalog/poster_1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/posters_catalog/poster_2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/posters/poster_2.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/public/images/posters/poster_1.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/posters/poster_2.jpeg">
+    <entry file="file://$PROJECT_DIR$/public/images/pictures_sm/GREBIY SUDBY 01.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/preview/trailer83898431.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
