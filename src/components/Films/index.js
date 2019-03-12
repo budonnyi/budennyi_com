@@ -1,20 +1,29 @@
 import React from 'react'
 import Classes from './Contacts.module.css'
-const films =
-{
-title: "Film 1",
-year: 2010,
 
-
-}
+const films = [
+    {id: '1', filmName: 'First', year: '2010'},
+    {id: '2', filmName: 'Second', year: '2011'},
+    {id: '3', filmName: 'Third', year: '2012'}
+];
 
 const Films = () => {
     return (
-        <div>
+        <div className="maincontent col-md-offset-6 col-md-5 col-sm-offset-6 col-sm-6 col-xs-12">
 
-            <h1 style={{color: '#fff'}}>Films</h1>
+            {films.map(
+                console.log(this.filmName)
+            )}
+
+            <div className="col-xl-4 col-md-4 col-sm-4 col-xs-12 mainPictures">
+                <div className="" >
+                    {/*<?= Html::a(Html::img(('/web/images/posters_catalog/' . $item['image'] . '.jpeg'), ['width' => '100%', 'class' => 'border-white img-responsive']), ['film/view', 'url' => $item['url']]) ?>*/}
+                    <p className="toptext"> </p>
+                </div>
+            </div>
 
         </div>
+
     )
 }
 

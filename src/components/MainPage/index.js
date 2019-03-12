@@ -1,6 +1,6 @@
 import React, {Components} from 'react'
 import classes from './mainPage.module.css'
-import MainMenu from './../../images/pages/main.png'
+import MainMenu from '../../../public/images/pages/main.png'
 
 const MainPage = () => {
     return (
