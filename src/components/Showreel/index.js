@@ -1,6 +1,6 @@
 import React from 'react'
 import classes from './Showreel.module.css'
-import Logo from '../../../public/images/pages/showreel_pic.jpeg'
+import Logo from '../../images/pages/showreel_pic.jpeg'
 
 console.log(classes)
 

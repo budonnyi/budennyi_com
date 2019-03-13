@@ -6,7 +6,7 @@ import MainPage from './components/MainPage'
 import Films from './components/Films'
 import Contacts from './components/Contacts'
 import Showreel from './components/Showreel'
-import Advertising from './components/Advertising'
+import Advertising from './components/Advertising/'
 
 class App extends Component {
     render() {

@@ -20,7 +20,7 @@ const links = [
         exact: false
     },
     {
-        to: '/advertise',
+        to: '/other',
         label: 'Остальное',
         exact: false
     },

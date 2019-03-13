@@ -1,30 +1,39 @@
 import React from 'react'
-import Classes from './Contacts.module.css'
+import FilmItem from '../FilmItem'
 
-const films = [
-    {id: '1', filmName: 'First', year: '2010'},
-    {id: '2', filmName: 'Second', year: '2011'},
-    {id: '3', filmName: 'Third', year: '2012'}
-];
+import Classes from './Films.module.css'
 
-const Films = () => {
-    return (
-        <div className="maincontent col-md-offset-6 col-md-5 col-sm-offset-6 col-sm-6 col-xs-12">
+import films from '../../films'
 
-            {films.map(
-                console.log(this.filmName)
-            )}
+const Films = (props) => {
+  return (
+    <div className={'container'}>
+      <div className={Classes.maincontent}>
+        <div className={"offset-md-6 col-md-6 col-12"}>
+          <div className={'row'}>
+            {!films
+              ? null
+              : films
+                .filter(film => (
+                  film.category_id === 'films'
+                ))
+                .map(film => (
+                    <FilmItem
+                      key={film.id}
+                      name={film.name}
+                      year={film.year}
+                      image={film.image}
+                    />
 
-            <div className="col-xl-4 col-md-4 col-sm-4 col-xs-12 mainPictures">
-                <div className="" >
-                    {/*<?= Html::a(Html::img(('/web/images/posters_catalog/' . $item['image'] . '.jpeg'), ['width' => '100%', 'class' => 'border-white img-responsive']), ['film/view', 'url' => $item['url']]) ?>*/}
-                    <p className="toptext"> </p>
-                </div>
-            </div>
-
+                  )
+                )
+            }
+          </div>
         </div>
+      </div>
+    </div>
 
-    )
+  )
 }
 
 export default Films

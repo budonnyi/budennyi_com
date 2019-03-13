@@ -1,0 +1,30 @@
+.AdvertiseItem {
+
+}
+
+.othertext {
+
+    /*display: block;*/
+    margin-top: -20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    color: #000;
+    font-size: 18px;
+    background-color: #fff;
+    text-transform: uppercase;
+
+}
+
+.other {
+    padding-bottom: 15px;
+}
+
+.mainPictures:hover {
+    transition: .3s;
+    -webkit-transform: scale(1.06);
+    -ms-transform: scale(1.06);
+    transform: scale(1.06);
+    overflow: hidden;
+}
+
