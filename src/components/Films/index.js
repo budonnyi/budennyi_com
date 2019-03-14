@@ -1,5 +1,6 @@
 import React from 'react'
 import FilmItem from '../FilmItem'
+import ReactCSSTransitionGroup from 'react-transition-group'
 
 import Classes from './Films.module.css'
 
@@ -8,6 +9,9 @@ import films from '../../films'
 const Films = (props) => {
   return (
     <div className={'container'}>
+
+
+
       <div className={Classes.maincontent}>
         <div className={"offset-md-6 col-md-6 col-12"}>
           <div className={'row'}>
@@ -18,6 +22,7 @@ const Films = (props) => {
                   film.category_id === 'films'
                 ))
                 .map(film => (
+
                     <FilmItem
                       key={film.id}
                       name={film.name}

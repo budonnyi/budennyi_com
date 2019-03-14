@@ -16,4 +16,11 @@
     font-weight: 600;
 }
 
+.mainPictures:hover {
+    transition: .3s;
+    -webkit-transform: scale(1.06);
+    -ms-transform: scale(1.06);
+    transform: scale(1.06);
+    overflow: hidden;
+}
 

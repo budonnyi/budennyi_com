@@ -3,6 +3,10 @@ import Classes from './FilmItem.module.css'
 
 const FilmItem = props => {
 
+  onFilmHandle(){
+
+  }
+
   return (
     <div className='col-md-4'>
       <div style={{
@@ -18,6 +22,7 @@ const FilmItem = props => {
           width: '110%',
           marginLeft: '-15px'
         }}
+        onClick={this.onFilmHandle}
       />
       </div>
     </div>
