@@ -1,7 +1,7 @@
 import React from 'react'
 import FilmItem from '../FilmItem'
 import ReactCSSTransitionGroup from 'react-transition-group'
-
+import NavLink from 'react-router-dom/es/NavLink'
 import Classes from './Films.module.css'
 
 import films from '../../films'
@@ -9,7 +9,6 @@ import films from '../../films'
 const Films = (props) => {
   return (
     <div className={'container'}>
-
 
 
       <div className={Classes.maincontent}>
@@ -23,12 +22,20 @@ const Films = (props) => {
                 ))
                 .map(film => (
 
-                    <FilmItem
-                      key={film.id}
-                      name={film.name}
-                      year={film.year}
-                      image={film.image}
-                    />
+                    <div className='col-md-4'>
+                      <NavLink
+                        to={'/film/' + film.url}
+                      >
+                        < FilmItem
+                          key={film.id}
+                          name={film.name}
+                          year={film.year}
+                          image={film.image}
+
+                        />
+                      </NavLink>
+                    </div>
+
 
                   )
                 )
@@ -45,16 +52,16 @@ export default Films
 
 //
 // $articles = array(
-//     'director' => 'Режиссер',
-//     'duration' => 'Хр. -',
-//     'producer' => 'Продюсер',
-//     'year' => 'год создания -',
-//     'genre' => 'Жанр -',
-//     'scenario' => 'Сценарий',
-//     'idea' => 'Идея',
-//     'music' => 'Музыка',
-//     'camera' => 'Камера',
-//     'painter' => 'Художник',
+// 'director' => 'Режиссер',
+// 'duration' => 'Хр. -',
+// 'producer' => 'Продюсер',
+// 'year' => 'год создания -',
+// 'genre' => 'Жанр -',
+// 'scenario' => 'Сценарий',
+// 'idea' => 'Идея',
+// 'music' => 'Музыка',
+// 'camera' => 'Камера',
+// 'painter' => 'Художник',
 // );
 
 // [
