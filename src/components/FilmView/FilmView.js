@@ -1,8 +1,13 @@
 import React from 'react'
 import Classes from './FilmView.module.css'
 import FilmData from '../FilmData'
+// import connect from 'react-redux'
 
 const FilmView = props => {
+  // componentDidMount() {
+  //   // this.props.fetchFilmByUrl(this.props.params.url)
+  // }
+
   console.log(props)
 
   return (
