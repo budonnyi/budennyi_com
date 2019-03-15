@@ -33,8 +33,6 @@ const Films = () => {
                         />
                       </NavLink>
                     </div>
-
-
                   )
                 )
             }
