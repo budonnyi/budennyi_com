@@ -6,11 +6,9 @@ import Classes from './Films.module.css'
 
 import films from '../../films'
 
-const Films = (props) => {
+const Films = () => {
   return (
     <div className={'container'}>
-
-
       <div className={Classes.maincontent}>
         <div className={"offset-md-6 col-md-6 col-12"}>
           <div className={'row'}>
@@ -26,12 +24,12 @@ const Films = (props) => {
                       <NavLink
                         to={'/film/' + film.url}
                       >
-                        < FilmItem
+                        <FilmItem
                           key={film.id}
                           name={film.name}
                           year={film.year}
                           image={film.image}
-
+                          {...film}
                         />
                       </NavLink>
                     </div>
