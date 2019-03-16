@@ -3,7 +3,7 @@ import Classes from './AdvertiseItem.module.css'
 
 const AdvertiseItem = props => {
   return (
-    <div className='col-md-12'>
+    <div className={Classes.AdvertiseItem + 'col-md-12'}>
       <div style={{
         marginBottom: 13
       }}>

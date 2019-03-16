@@ -17,12 +17,12 @@ const Contacts = () => (
       <p className={classes.string3}>
         Как режиссер-постановщик работал в компаниях STARMEDIA, FILM.UA.</p>
     </div>
-    <div className={classes.contactForm, classes.string4}>
+    <div className={classes.contactForm + classes.string4}>
       <p>Facebook:
         <a
           className={classes.contactLink}
           href="https://www.facebook.com/profile.php?id=100010301412247"
-          target="_blank"
+          // target="_blank"
         >
           Александр Буденный
         </a>

@@ -3,7 +3,6 @@ import Classes from './FilmItem.module.css'
 
 const FilmItem = props => {
 
-  console.log(props)
 
   // onFilmHandle(){
   //
@@ -19,7 +18,7 @@ const FilmItem = props => {
       {/*<p style={{color: 'red'}}>{props.name}</p>*/}
       <p className={Classes.toptext}>{props.year}</p>
       <img
-        src={'images1/posters/'+props.image+'.jpeg'}
+        src={'/images/posters/'+props.image+'.jpeg'}
         alt={props.name}
         className='img-responsive border-white'
         style={{
