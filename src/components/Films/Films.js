@@ -17,9 +17,9 @@ const Films = () => {
                 .filter(film => (
                   film.category_id === 'films'
                 ))
-                .map(film => (
+                .map( (film, index) => (
 
-                    <div className='col-md-4'>
+                    <div className='col-md-4' key={index}>
                       <NavLink
                         to={'/film/' + film.url}
                       >
@@ -30,6 +30,7 @@ const Films = () => {
                           image={film.image}
                           {...film}
                         />
+
                       </NavLink>
                     </div>
                   )

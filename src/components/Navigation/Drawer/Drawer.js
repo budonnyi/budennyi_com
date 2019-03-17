@@ -2,6 +2,7 @@ import React, {Component} from 'react'
 import classes from './Drawer.module.css'
 import BackDrop from '../BackDrop'
 import {NavLink} from "react-router-dom";
+import films from '../../../films'
 
 const links = [
     {

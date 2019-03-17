@@ -3,7 +3,6 @@ import Classes from './FilmItem.module.css'
 
 const FilmItem = props => {
 
-
   // onFilmHandle(){
   //
   // }

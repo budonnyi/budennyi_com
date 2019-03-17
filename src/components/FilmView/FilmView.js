@@ -12,7 +12,8 @@ const FilmView = props => {
   const descItems = [];
 
   description.forEach((item, index) => {
-    descItems.push(<p key={index} className={Classes.description}>{item}</p>)
+    descItems.push(<p key={index}
+                      className={Classes.description}>{item}</p>)
   })
 
   return (
@@ -22,11 +23,11 @@ const FilmView = props => {
         <div className={'row'}>
           <div className={'col-md-4'}>
             <img src={'/images/posters/' + props.image + '.jpeg'}
-                 className={Classes.bigpicture + 'img-responsive'}
-                 width={'100%'}
+                 className={Classes.bigpicture}
                  alt={props.name}/>
 
             <FilmData {...props} />
+
           </div>
 
           <div className={'col-md-7'}>

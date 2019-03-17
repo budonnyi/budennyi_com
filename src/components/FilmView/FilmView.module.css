@@ -1,11 +1,11 @@
-body {
-    /*background: url('../../images/background/bg1.jpg') no-repeat center center fixed;*/
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-color: #ccc;
-}
+/*body {*/
+    /*!*background: url('../../images/background/bg1.jpg') no-repeat center center fixed;*!*/
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    /*background-size: cover;*/
+    /*background-color: #ccc;*/
+/*}*/
 
 .FilmView {
 
@@ -16,8 +16,8 @@ body {
 }
 
 .bigpicture {
-    border: 3px solid white;
-    margin-bottom: 15px;
+    border: 2px solid white;
+    margin-bottom: 10px;
     width: 100%;
     min-width: 250px;
 }
