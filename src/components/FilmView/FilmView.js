@@ -2,46 +2,69 @@ import React from 'react'
 import Classes from './FilmView.module.css'
 import FilmData from '../FilmData'
 import Trailers from '../Trailers'
+import ModalVideo from 'react-modal-video'
 
 // import connect from 'react-redux'
 
-const FilmView = props => {
+class FilmView extends React.Component {
 
-  const description = props.description.split('/');
+    state = {
+        isOpen: false,
+        video: null
+    };
 
-  const descItems = [];
+    selectVideo = (video) => {
+        console.log(video)
 
-  description.forEach((item, index) => {
-    descItems.push(<p key={index}
-                      className={Classes.description}>{item}</p>)
-  })
+        this.setState({video, isOpen: true});
+    };
 
-  return (
-    <div className={Classes.maincontent}>
 
-      <div className={'offset-md-4 col-md-8 col-sm-12'}>
-        <div className={'row'}>
-          <div className={'col-md-4'}>
-            <img src={'/images/posters/' + props.image + '.jpeg'}
-                 className={Classes.bigpicture}
-                 alt={props.name}/>
+    render() {
 
-            <FilmData {...props} />
+        const {video, isOpen} = this.state;
 
-          </div>
+        const description = this.props.description.split('/');
 
-          <div className={'col-md-7'}>
-            <div>
-              {descItems}
+        const descItems = description.map((item, index) =>
+            <p key={index}
+               className={Classes.description}>{item}</p>
+        )
+        return (
+            <div className={Classes.maincontent}>
+
+                <div className={'offset-md-4 col-md-8 col-sm-12'}>
+                    <div className={'row'}>
+                        <div className={'col-md-4'}>
+                            <img src={'/images/posters/' + this.props.image + '.jpeg'}
+                                 className={Classes.bigpicture}
+                                 alt={this.props.name}/>
+
+                            <FilmData {...this.props} />
+
+                        </div>
+
+                        <div className={'col-md-7'}>
+                            <div>
+                                {descItems}
+                            </div>
+
+                            <Trailers {...this.props} selectVideo={this.selectVideo}/>
+
+                        </div>
+                    </div>
+                </div>
+
+                <ModalVideo
+                    channel="vimeo"
+                    isOpen={isOpen}
+                    videoId={video}
+                    onClose={() => this.setState({isOpen: false})}
+                />
+
             </div>
-
-            <Trailers {...props} />
-
-          </div>
-        </div>
-      </div>
-    </div>
-  )
+        )
+    }
 }
 
 export default FilmView

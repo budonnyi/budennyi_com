@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb179e82-13ac-4785-80e2-5db08fc0ede6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/modal-video.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FilmData/FilmData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FilmData/FilmData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FilmData/FilmData.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FilmData/FilmData.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FilmItem/FilmItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FilmItem/FilmItem.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/FilmView/FilmView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FilmView/FilmView.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FilmView/FilmView.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FilmView/FilmView.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Films/Contacts.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Films/Films.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Films/Films.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Showreel/Showreel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Showreel/Showreel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Showreel/Showreel.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Showreel/Showreel.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Trailers/Trailers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Trailers/Trailers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Trailers/Trailers.modules.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Trailers/Trailers.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/films.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/films.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Films/Films.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
+            <state relative-caret-position="418">
               <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
@@ -41,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Showreel/Showreel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+            <state relative-caret-position="397">
+              <caret line="35" column="55" lean-forward="true" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -56,17 +42,50 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/films.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
+            <state relative-caret-position="18172">
               <caret line="826" column="22" selection-start-line="826" selection-start-column="14" selection-end-line="826" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/FilmItem/FilmItem.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+            <state relative-caret-position="142">
+              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/FilmView/FilmView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-185">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Showreel/Showreel.module.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Trailers/Trailers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="45" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -77,7 +96,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
+            <state relative-caret-position="374">
               <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
@@ -89,8 +108,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="308">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -167,21 +186,18 @@
         <option value="$PROJECT_DIR$/src/components/Showreel/Ырщцкууд.js" />
         <option value="$PROJECT_DIR$/src/components/Showreel/index.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
-        <option value="$PROJECT_DIR$/src/components/Showreel/Showreel.module.css" />
         <option value="$PROJECT_DIR$/src/components/Navigation/MenuToggle/MenuToggle.js" />
         <option value="$PROJECT_DIR$/src/components/Contacts/Contacts.js" />
         <option value="$PROJECT_DIR$/src/components/ActionVideo/ActionVideo.js" />
         <option value="$PROJECT_DIR$/src/components/AdvertiseItem/AdvertiseItem.js" />
         <option value="$PROJECT_DIR$/src/components/MainPage/index.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/components/FilmView/FilmView.js" />
         <option value="$PROJECT_DIR$/src/components/Contacts/Contacts.module.css" />
         <option value="$PROJECT_DIR$/src/components/FilmView/FilmView.module.css" />
         <option value="$PROJECT_DIR$/src/components/FilmData/FilmData.js" />
         <option value="$PROJECT_DIR$/src/components/FilmData/FilmData.module.css" />
         <option value="$PROJECT_DIR$/src/components/Films/Films.js" />
         <option value="$PROJECT_DIR$/src/components/Trailers/Trailers.module.css" />
-        <option value="$PROJECT_DIR$/src/components/Trailers/Trailers.js" />
         <option value="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/films.json" />
@@ -189,10 +205,13 @@
         <option value="$PROJECT_DIR$/build/.htaccess" />
         <option value="$PROJECT_DIR$/src/components/Showreel/Showreel.js" />
         <option value="$PROJECT_DIR$/src/components/FilmItem/FilmItem.js" />
+        <option value="$PROJECT_DIR$/src/components/Trailers/Trailers.js" />
+        <option value="$PROJECT_DIR$/src/components/FilmView/FilmView.js" />
+        <option value="$PROJECT_DIR$/src/components/Showreel/Showreel.module.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="209" />
     <option name="y" value="160" />
     <option name="width" value="1440" />
@@ -208,45 +227,54 @@
         <subPane>
           <expand>
             <path>
-              <item name="budennyi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="budennyi" type="462c0819:PsiDirectoryNode" />
+              <item name="budennyi_com_react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="budennyi_com_react" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="budennyi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="budennyi" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="budennyi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="budennyi" type="462c0819:PsiDirectoryNode" />
+              <item name="budennyi_com_react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="budennyi_com_react" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="budennyi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="budennyi" type="462c0819:PsiDirectoryNode" />
+              <item name="budennyi_com_react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="budennyi_com_react" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="budennyi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="budennyi" type="462c0819:PsiDirectoryNode" />
+              <item name="budennyi_com_react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="budennyi_com_react" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="FilmItem" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="budennyi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="budennyi" type="462c0819:PsiDirectoryNode" />
+              <item name="budennyi_com_react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="budennyi_com_react" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="Films" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="budennyi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="budennyi" type="462c0819:PsiDirectoryNode" />
+              <item name="budennyi_com_react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="budennyi_com_react" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="FilmView" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="budennyi_com_react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="budennyi_com_react" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="Showreel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="budennyi_com_react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="budennyi_com_react" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Trailers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,6 +285,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -327,6 +356,7 @@
       <workItem from="1552627615318" duration="313000" />
       <workItem from="1552671967424" duration="31042000" />
       <workItem from="1552766155582" duration="6492000" />
+      <workItem from="1554018441304" duration="2790000" />
     </task>
     <task id="LOCAL-00001" summary="pre done">
       <created>1551159845347</created>
@@ -395,7 +425,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94923000" />
+    <option name="totallyTimeSpent" value="97713000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -407,10 +437,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="682" y="337" width="1440" height="820" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="813" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19098713" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19384836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -425,12 +455,34 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32962137" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2967033" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.29680997" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19384836" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32962137" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32962137" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.29680997" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -466,9 +518,7 @@
     <entry file="file://$PROJECT_DIR$/public/favicon.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/build/index.html" />
     <entry file="file://$PROJECT_DIR$/src/components/Advertising/Advertising.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="86">
@@ -591,13 +641,6 @@
     <entry file="file://$PROJECT_DIR$/src/images/pages/main.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Showreel/Showreel.module.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
@@ -694,30 +737,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Trailers/Trailers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="14" column="85" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/FilmView/FilmView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -735,16 +758,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/src/components/Films/Films.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/films.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
+        <state relative-caret-position="18172">
           <caret line="826" column="22" selection-start-line="826" selection-start-column="14" selection-end-line="826" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
+        <state relative-caret-position="374">
           <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -752,37 +786,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="308">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Showreel/Showreel.js">
+    <entry file="file://$PROJECT_DIR$/src/components/Trailers/Trailers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        <state relative-caret-position="162">
+          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="45" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Films/Films.js">
+    <entry file="file://$PROJECT_DIR$/src/components/FilmView/FilmView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        <state relative-caret-position="-185">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
@@ -791,8 +818,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/FilmItem/FilmItem.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        <state relative-caret-position="142">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Showreel/Showreel.module.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Showreel/Showreel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="35" column="55" lean-forward="true" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
